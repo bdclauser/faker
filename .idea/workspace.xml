@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36e8f5e0-69d7-4f57-9d83-c81b60d52cc6" name="Default Changelist" comment="" />
+    <list default="true" id="36e8f5e0-69d7-4f57-9d83-c81b60d52cc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/aa_AA/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/el_GR/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/en_US/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/fr_FR/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/he_IL/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/ja_JP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/kl_tIH/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/la/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/pl_PL/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/ru_RU/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/zh_CH/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker/providers/lorem/zh_TW/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,24 +39,24 @@
     <session id="-653296439">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="497" />
-          <entry key="txt" value="7" />
+          <entry key="py" value="1460" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="497" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="1460" />
         </counts>
       </usages-collector>
     </session>
@@ -50,31 +64,109 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faker/providers/en_us/__init__.py">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/en_US/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="329">
+              <caret line="973" column="16" lean-forward="true" selection-start-line="973" selection-start-column="16" selection-end-line="973" selection-end-column="16" />
+              <folding>
+                <element signature="e#16#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faker/providers/profile/__init__.py">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/fr_FR/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="329">
+              <caret line="1464" column="16" lean-forward="true" selection-start-line="1464" selection-start-column="16" selection-end-line="1464" selection-end-column="16" />
               <folding>
-                <element signature="e#17#44#0" expanded="true" />
+                <element signature="e#16#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/he_IL/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/ja_JP/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="218" column="16" lean-forward="true" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/la/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+              <folding>
+                <element signature="e#16#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/pl_PL/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3000">
+              <caret line="200" column="51" lean-forward="true" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
+              <folding>
+                <element signature="e#16#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/ru_RU/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="83" column="52" lean-forward="true" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/zh_CH/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="346" column="14" lean-forward="true" selection-start-line="346" selection-start-column="14" selection-end-line="346" selection-end-column="14" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/faker/providers/profile/en_US/__init__.py">
+        <entry file="file://$PROJECT_DIR$/faker/providers/lorem/kl_tIH/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="479">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,6 +188,19 @@
       <list>
         <option value="$PROJECT_DIR$/faker/providers/profile/__init__.py" />
         <option value="$PROJECT_DIR$/faker/providers/profile/en_US/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/aa_AA/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/el_GR/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/en_US/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/fr_FR/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/he_IL/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/ja_JP/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/la/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/pl_PL/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/ru_RU/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/zh_CH/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/zh_TW/__init__.py" />
+        <option value="$PROJECT_DIR$/faker/providers/lorem/kl_tIH/__init__.py" />
       </list>
     </option>
   </component>
@@ -142,6 +247,29 @@
               <item name="faker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="providers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="faker" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="faker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="providers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lorem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="faker" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="faker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="providers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lorem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kl_tIH" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="faker" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="faker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="providers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lorem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="zh_TW" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,20 +306,28 @@
       <option name="project" value="LOCAL" />
       <updated>1542855529975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial lorem generator">
+      <created>1542856560182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542856560182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="805" y="62" width="874" height="921" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17427884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49759614" visible="true" weight="0.3293124" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49759614" weight="0.3293124" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.49879807" weight="0.3293124" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49759614" weight="0.3293124" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49759614" visible="true" weight="0.3293124" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50240386" side_tool="true" weight="0.3293124" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -252,7 +388,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="localized python provider" />
     <MESSAGE value="localized profile provider" />
-    <option name="LAST_COMMIT_MESSAGE" value="localized profile provider" />
+    <MESSAGE value="initial lorem generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial lorem generator" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/faker/providers/en_us/__init__.py">
@@ -262,20 +399,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/profile/en_US/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/faker/providers/profile/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
             <element signature="e#17#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faker/providers/profile/en_US/__init__.py">
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="255">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/aa_AA/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/el_GR/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/en_US/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="973" column="16" lean-forward="true" selection-start-line="973" selection-start-column="16" selection-end-line="973" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/fr_FR/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="1464" column="16" lean-forward="true" selection-start-line="1464" selection-start-column="16" selection-end-line="1464" selection-end-column="16" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/he_IL/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/ja_JP/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="218" column="16" lean-forward="true" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/la/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/zh_TW/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/ru_RU/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="52" lean-forward="true" selection-start-line="83" selection-start-column="52" selection-end-line="83" selection-end-column="52" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/pl_PL/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="200" column="51" lean-forward="true" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
+          <folding>
+            <element signature="e#16#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/zh_CH/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="346" column="14" lean-forward="true" selection-start-line="346" selection-start-column="14" selection-end-line="346" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faker/providers/lorem/kl_tIH/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
