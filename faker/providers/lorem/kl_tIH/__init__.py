@@ -4,7 +4,6 @@ from .. import Provider as LoremProvider
 
 
 class Provider(LoremProvider):
-    word_connector = ''
     word_list = (
         'adanji',
         'baH',
